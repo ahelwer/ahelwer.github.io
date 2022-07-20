@@ -2,6 +2,8 @@
 title: "Trip Report: Cannon Mountain"
 subtitle: Alpine Lakes Wilderness, Central Cascades, WA, USA
 date: 2017-10-08
+images:
+- "img/cannon-2017/druid-plateau.jpg"
 bigimg: [{src: "/img/cannon-2017/druid-plateau.jpg" }]
 tags: ["Enchantments"]
 ---
