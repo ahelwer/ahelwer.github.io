@@ -10,7 +10,7 @@ theme           = "beautifulhugo"
 DefaultContentLanguage = "en"
 
 [Params]
-  subtitle = "Beta and photos from the climbs of my life"
+  subtitle = "Photos and beta from the climbs of my life"
   logo = "img/profile-2022.jpg"
   favicon = "img/disjunctive.ico"
   dateFormat = "January 2, 2006"
