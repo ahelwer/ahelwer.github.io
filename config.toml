@@ -1,0 +1,53 @@
+baseurl         = "https://outdoors.ahelwer.ca/"
+languageCode    = 'en-us'
+contentDir      = "content"
+layoutDir       = "layouts"
+publishDir      = "public"
+title           = "Trip Reports"
+metaDataFormat  = "yaml"
+theme           = "beautifulhugo"
+
+DefaultContentLanguage = "en"
+
+[Params]
+  subtitle = "Beta and photos from the climbs of my life"
+  logo = "img/profile-2022.jpg"
+  favicon = "img/disjunctive.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = false
+  pygmentsCodeFences = true
+  pygmentsUseClasses = true
+  selfHosted = true
+
+[Author]
+  name = "Andrew Helwer"
+  gitlab = "ahelwer"
+  github = "ahelwer"
+  linkedin = "ahelwer"
+  keybase = "ahelwer"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.vimeo]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
+
+[[menu.main]]
+    name = "Blog"
+    url = "post"
+    weight = 1
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3

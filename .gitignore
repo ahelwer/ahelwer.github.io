@@ -1,0 +1,11 @@
+public/
+
+# TeX
+*.aux
+*.log
+*.pdf
+*.synctex.gz
+scratch/*/*.svg
+
+.DS_Store
+.hugo_build.lock
