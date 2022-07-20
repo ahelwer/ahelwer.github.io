@@ -1,4 +1,4 @@
-baseurl         = "https://ahelwer.github.io/"
+baseurl         = "https://outdoors.ahelwer.ca/"
 languageCode    = 'en-us'
 contentDir      = "content"
 layoutDir       = "layouts"
