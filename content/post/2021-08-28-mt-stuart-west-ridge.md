@@ -3,7 +3,7 @@ title: "Trip Report: Mount Stuart via West Ridge"
 subtitle: Alpine Lakes Wilderness, Central Cascades, WA, USA
 date: 2021-08-28
 bigimg: [{src: "/img/stuart-2021/west-horn-from-summit-block.jpg" }]
-tags: ["Enchantments"]
+tags: ["Enchantments", "Washington"]
 ---
 
 Mount Stuart is probably my favorite mountain in Washington.

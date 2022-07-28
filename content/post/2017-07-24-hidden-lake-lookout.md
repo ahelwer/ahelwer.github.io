@@ -3,7 +3,7 @@ title: "Trip Report: Hidden Lake Lookout"
 subtitle: North Cascades, WA, USA
 date: 2017-07-24
 bigimg: [{src: "/img/hidden-lake/panes.jpg" }]
-tags: ["North Cascades"]
+tags: ["North Cascades", "Washington"]
 ---
 
 *Republished from the WTA website [here](https://www.wta.org/go-hiking/trip_report.2017-07-26.4796786304).*

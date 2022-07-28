@@ -3,7 +3,7 @@ title: "Trip Report: Heliotrope Ridge"
 subtitle: North Cascades, WA, USA
 date: 2019-08-16
 bigimg: [{src: "/img/heliotrope-ridge/seracs.jpg" }]
-tags: ["North Cascades"]
+tags: ["North Cascades", "Washington"]
 ---
 
 *Republished from the WTA website [here](https://www.wta.org/go-hiking/trip_report.2019-08-19.5236429342).*

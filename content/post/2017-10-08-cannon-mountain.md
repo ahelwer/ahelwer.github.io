@@ -5,7 +5,7 @@ date: 2017-10-08
 images:
 - "img/cannon-2017/druid-plateau.jpg"
 bigimg: [{src: "/img/cannon-2017/druid-plateau.jpg" }]
-tags: ["Enchantments"]
+tags: ["Enchantments", "Washington"]
 ---
 
 The Enchantments is a wildly popular hiking & climbing area in Washington, just outside the town of Leavenworth.

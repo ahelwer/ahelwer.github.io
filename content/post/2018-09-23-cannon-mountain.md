@@ -3,7 +3,7 @@ title: "Trip Report: Cannon Mountain"
 subtitle: Alpine Lakes Wilderness, Central Cascades, WA, USA
 date: 2018-09-23
 bigimg: [{src: "/img/cannon-2018/mcclellan.jpg" }]
-tags: ["Enchantments"]
+tags: ["Enchantments", "Washington"]
 ---
 
 Loved this route so much I had to go back and do it again.

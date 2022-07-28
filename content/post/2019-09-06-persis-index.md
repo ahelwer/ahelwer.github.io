@@ -3,7 +3,7 @@ title: "Trip Report: Persis-Index Traverse"
 subtitle: Central Cascades, WA, USA
 date: 2019-09-06
 bigimg: [{src: "/img/persis-index/sunrise.jpg" }]
-tags: ["Washington Pass"]
+tags: ["Washington Pass", "Washington"]
 ---
 
 *Republished from the WTA website [here](https://www.wta.org/go-hiking/trip_report.2019-09-09.7094964271).*
