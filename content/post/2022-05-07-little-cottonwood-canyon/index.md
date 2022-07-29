@@ -65,13 +65,13 @@ As for the hike, it offered beautiful views up a valley south of LCC dusted with
 
 ![](hike.JPEG)
 
-For dinner we enjoyed excellent Mexican food at House of Corn, a restaurant in Sandy that grinds their own corn for their tortillas!
-After dinner we went for a hot tub at a friend's place, which had a large & excitable dog.
+For late lunch we enjoyed excellent Mexican food at House of Corn, a restaurant in Sandy that grinds their own corn for their tortillas!
+After some rest we went for late dinner at a friend's place, which had a large & excitable dog.
 The friends had spent the day out with a climbing guide at Big Cottonwood Canyon (BCC), so had recommendations for us.
 
 On Wednesday the 4th we again had bad weather, so spent a bunch of time at the climbing gym.
 Jesse displayed a particular aptitude for climbing the squeeze chimney.
-Then we took a scouting trip up Big Cottonwood Canyon and admired the striking rock formations.
+After a prolonged hot tub at the friends' place, we took a scouting trip up Big Cottonwood Canyon and admired the striking rock formations.
 
 ![](big-cottonwood.JPEG)
 
