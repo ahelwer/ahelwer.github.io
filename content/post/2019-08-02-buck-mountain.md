@@ -3,6 +3,7 @@ title: "Trip Report: Buck Mountain"
 subtitle: Entiat Mountains, Central Cascades, WA, USA
 date: 2019-08-02
 bigimg: [{src: "/img/buck/buck-backside.jpg" }]
+image: "/img/buck/buck-backside.jpg"
 tags: ["Entiat Mountains", "Washington"]
 ---
 

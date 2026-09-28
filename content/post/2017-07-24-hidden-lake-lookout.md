@@ -3,6 +3,7 @@ title: "Trip Report: Hidden Lake Lookout"
 subtitle: North Cascades, WA, USA
 date: 2017-07-24
 bigimg: [{src: "/img/hidden-lake/panes.jpg" }]
+image: "/img/hidden-lake/panes.jpg"
 tags: ["North Cascades", "Washington"]
 ---
 

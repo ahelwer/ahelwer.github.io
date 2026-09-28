@@ -1,5 +1,5 @@
 baseurl         = "https://outdoors.ahelwer.ca/"
-languageCode    = 'en-us'
+locale          = 'en-us'
 contentDir      = "content"
 layoutDir       = "layouts"
 publishDir      = "public"
@@ -21,7 +21,7 @@ DefaultContentLanguage = "en"
   pygmentsUseClasses = true
   selfHosted = true
 
-[Author]
+[Params.Author]
   name = "Andrew Helwer"
   gitlab = "ahelwer"
   github = "ahelwer"
@@ -35,7 +35,7 @@ DefaultContentLanguage = "en"
     disable = true
   [privacy.instagram]
     disable = true
-  [privacy.twitter]
+  [privacy.x]
     enableDNT = true
   [privacy.vimeo]
     enableDNT = true

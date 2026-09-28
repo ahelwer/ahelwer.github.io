@@ -3,6 +3,7 @@ title: "Trip Journal: Little Cottonwood Canyon"
 subtitle: Sandy, UT, USA
 date: 2022-05-07
 bigimg: [{src: "south-lcc.JPEG" }]
+image: "/post/2022-05-07-little-cottonwood-canyon/south-lcc.JPEG"
 tags: ["Utah"]
 ---
 

@@ -3,6 +3,7 @@ title: "Trip Report: The Enchantments"
 subtitle: Alpine Lakes Wilderness, Central Cascades, WA, USA
 date: 2019-09-12
 bigimg: [{src: "/img/enchantments-2019/colchuck.jpg" }]
+image: "/img/enchantments-2019/colchuck.jpg"
 tags: ["Enchantments", "Washington"]
 ---
 

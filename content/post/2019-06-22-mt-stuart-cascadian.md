@@ -3,6 +3,7 @@ title: "Trip Report: Mount Stuart via Cascadian Couloir"
 subtitle: Alpine Lakes Wilderness, Central Cascades, WA, USA
 date: 2019-06-22
 bigimg: [{src: "/img/stuart-2019/longs-pass.jpg" }]
+image: "/img/stuart-2019/longs-pass.jpg"
 tags: ["Enchantments", "Washington"]
 ---
 
